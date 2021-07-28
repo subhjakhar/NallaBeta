@@ -7,9 +7,9 @@ body{
     background-color: #FAFF1D;
     display: flex;
     flex-direction: column;
-    padding:4%;
+    padding-left:4%;
     height:100vh;
-    width:100%
+    width:100%;
 }
 
 .hero-tagline{
@@ -29,18 +29,18 @@ body{
 }
 .nallabeta{
     font-family: 'Racing Sans One', cursive;
-      font-size:4.5rem
+      font-size:4.2rem
 }
 .web{
     font-family: 'Roboto', sans-serif;
-    font-size:1.5rem
+    font-size:1.2rem
 }
 .soon{
     font-family: 'Roboto', sans-serif;
     font-size:0.8rem;
-   
+    margin-top:18%
 }
-img{
+img{margin:0;
     width:355px;
     height:auto
 }
